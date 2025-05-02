@@ -15,10 +15,13 @@
 ![Диаграмма](/materials/start_screen.png)
 
 ### Процесс игры
-![Диаграмма](/materials/первая.gif)
+![Диаграмма](/materials/start_game.gif)
 
 ### Уничтожение линий
-![Диаграмма](/materials/вторая.gif)
+![Диаграмма](/materials/delete_line.gif)
+
+### Конец игры
+![Диаграмма](/materials/game_over.gif)
 
 
 
